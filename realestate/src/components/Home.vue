@@ -89,12 +89,12 @@
               <div class="row">
                 <div class="col-lg-8">
                   <div class="intro-body">
-                    <p class="intro-title-top">Kingara rd
+                    <p class="intro-title-top">Ngong rd
                       <br> Nairobi, Kenya
                     </p>
                     <h1 class="intro-title mb-4">
-                      <span class="color-b">Intime </span> Homes
-                      <br> Consultant
+                      <span class="color-b">Moringa </span> Homes
+                      <br> Agency
                     </h1>
                     <p class="intro-subtitle intro-price">
                       <a href=""><span class="price-a">rent | buy</span></a>
@@ -204,14 +204,14 @@
           <div class="col-sm-12">
             <div class="contact-map box">
               <div id="map" class="contact-map">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127643.16716285676!2d36.75570298663905!3d-1.2630175566049635!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f1bd3c34d8f83%3A0xecfe641600674aac!2sIntime%20Homes%20Consultant!5e0!3m2!1sen!2ske!4v1631732472411!5m2!1sen!2ske" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15955.16244016024!2d36.7846067!3d-1.3004862!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x940b62a3c8efde4c!2sMoringa%20School!5e0!3m2!1sen!2ske!4v1647837324324!5m2!1sen!2ske" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
               </div>
             </div>
           </div>
           <div class="col-sm-12 section-t8">
             <div class="row">
               <div class="col-md-7">
-                <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+                <form  method="post" role="form" class="php-email-form">
                   <div class="row">
                     <div class="col-md-6 mb-3">
                       <div class="form-group">
@@ -262,10 +262,10 @@
                     </div>
                     <div class="icon-box-content">
                       <p class="mb-1">Email.
-                        <span class="color-a">kihongekimani@gmail.com</span>
+                        <span class="color-a">support@moringahomes.com</span>
                       </p>
                       <p class="mb-1">Phone.
-                        <span class="color-a">+254705894218</span>
+                        <span class="color-a">+254XXXXXXX</span>
                       </p>
                     </div>
                   </div>
@@ -280,7 +280,7 @@
                     </div>
                     <div class="icon-box-content">
                       <p class="mb-1">
-                        Kingara Rd, Nairobi
+                        Ngong Rd, Nairobi
                         <br> KE.
                       </p>
                     </div>
